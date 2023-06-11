@@ -1,0 +1,310 @@
+------ LOGS ------ 
+Loading aquarium ...
+	-> aquarium loaded (5 display views) !
+Aquarium loaded !
+New connection : socket 5
+Received (socket fd 5): hello in as N1
+Response sent!
+
+Received (socket fd 5): ping 1234
+Response sent!
+
+Received (socket fd 5): ping 1234
+Response sent!
+
+Received (socket fd 5): ping 1234
+Response sent!
+
+New connection : socket 6
+Received (socket fd 6): hello in as N1
+Response sent!
+
+Received (socket fd 5): ping 1234
+Response sent!
+
+Received (socket fd 5): ping 1234
+Response sent!
+
+Received (socket fd 5): ping 1234
+Response sent!
+
+Received (socket fd 5): ping 1234
+Response sent!
+
+Received (socket fd 5): ping 1234
+Response sent!
+
+Received (socket fd 5): ping 1234
+Response sent!
+
+Received (socket fd 5): ping 1234
+Response sent!
+
+Received (socket fd 5): ping 1234
+Response sent!
+
+Received (socket fd 5): ping 1234
+Response sent!
+
+Received (socket fd 5): ping 1234
+Response sent!
+
+Received (socket fd 5): ping 1234
+Response sent!
+
+Received (socket fd 5): ping 1234
+Response sent!
+
+Received (socket fd 5): ping 1234
+Response sent!
+
+Received (socket fd 5): ping 1234
+Response sent!
+
+Received (socket fd 5): ping 1234
+Response sent!
+
+Received (socket fd 5): ping 1234
+Response sent!
+
+Received (socket fd 5): ping 1234
+Response sent!
+
+Received (socket fd 5): ping 1234
+Response sent!
+
+Received (socket fd 5): ping 1234
+Response sent!
+
+Received (socket fd 5): ping 1234
+Response sent!
+
+Received (socket fd 5): ping 1234
+Response sent!
+
+Received (socket fd 5): ping 1234
+Response sent!
+
+Received (socket fd 5): ping 1234
+Response sent!
+
+Received (socket fd 5): ping 1234
+Response sent!
+
+Received (socket fd 5): ping 1234
+Response sent!
+
+Received (socket fd 5): ping 1234
+Response sent!
+
+Received (socket fd 5): ping 1234
+Response sent!
+
+Received (socket fd 5): ping 1234
+Response sent!
+
+Received (socket fd 5): ping 1234
+Response sent!
+
+Received (socket fd 5): ping 1234
+Response sent!
+
+Received (socket fd 5): ping 1234
+Response sent!
+
+Received (socket fd 5): ping 1234
+Response sent!
+
+Received (socket fd 5): ping 1234
+Response sent!
+
+Received (socket fd 5): ping 1234
+Response sent!
+
+Received (socket fd 5): ping 1234
+Response sent!
+
+Received (socket fd 5): ping 1234
+Response sent!
+
+Received (socket fd 5): ping 1234
+Response sent!
+
+Received (socket fd 5): ping 1234
+Response sent!
+
+Received (socket fd 5): ping 1234
+Response sent!
+
+Received (socket fd 5): ping 1234
+Response sent!
+
+Received (socket fd 5): ping 1234
+Response sent!
+
+Received (socket fd 5): ping 1234
+Response sent!
+
+Received (socket fd 5): ping 1234
+Response sent!
+
+Received (socket fd 5): ping 1234
+Response sent!
+
+Received (socket fd 5): ping 1234
+Response sent!
+
+Received (socket fd 5): ping 1234
+Response sent!
+
+Received (socket fd 5): ping 1234
+Response sent!
+
+Received (socket fd 5): ping 1234
+Response sent!
+
+Received (socket fd 5): ping 1234
+Response sent!
+
+Received (socket fd 5): ping 1234
+Response sent!
+
+Received (socket fd 5): ping 1234
+Response sent!
+
+Received (socket fd 5): ping 1234
+Response sent!
+
+Received (socket fd 5): ping 1234
+Response sent!
+
+Received (socket fd 5): ping 1234
+Response sent!
+
+Received (socket fd 5): ping 1234
+Response sent!
+
+Received (socket fd 5): ping 1234
+Response sent!
+
+Received (socket fd 5): ping 1234
+Response sent!
+
+Received (socket fd 5): ping 1234
+Response sent!
+
+Received (socket fd 5): ping 1234
+Response sent!
+
+Received (socket fd 5): ping 1234
+Response sent!
+
+Received (socket fd 5): ping 1234
+Response sent!
+
+Received (socket fd 5): ping 1234
+Response sent!
+
+Received (socket fd 5): ping 1234
+Response sent!
+
+Received (socket fd 5): ping 1234
+Response sent!
+
+Received (socket fd 5): ping 1234
+Response sent!
+
+Received (socket fd 5): ping 1234
+Response sent!
+
+Received (socket fd 5): ping 1234
+Response sent!
+
+Received (socket fd 5): ping 1234
+Response sent!
+
+Received (socket fd 5): ping 1234
+Response sent!
+
+Received (socket fd 5): ping 1234
+Response sent!
+
+Received (socket fd 5): ping 1234
+Response sent!
+
+Received (socket fd 5): ping 1234
+Response sent!
+
+Received (socket fd 5): ping 1234
+Response sent!
+
+Received (socket fd 5): ping 1234
+Response sent!
+
+Received (socket fd 5): ping 1234
+Response sent!
+
+Received (socket fd 5): ping 1234
+Response sent!
+
+Received (socket fd 5): ping 1234
+Response sent!
+
+Received (socket fd 5): ping 1234
+Response sent!
+
+Received (socket fd 5): ping 1234
+Response sent!
+
+Received (socket fd 5): ping 1234
+Response sent!
+
+Received (socket fd 5): ping 1234
+Response sent!
+
+Received (socket fd 5): ping 1234
+Response sent!
+
+Received (socket fd 5): ping 1234
+Response sent!
+
+Received (socket fd 5): ping 1234
+Response sent!
+
+Received (socket fd 5): ping 1234
+Response sent!
+
+Received (socket fd 5): ping 1234
+Response sent!
+
+Received (socket fd 5): ping 1234
+Response sent!
+
+Received (socket fd 5): ping 1234
+Response sent!
+
+Received (socket fd 5): ping 1234
+Response sent!
+
+Received (socket fd 5): ping 1234
+Response sent!
+
+Received (socket fd 5): ping 1234
+Response sent!
+
+Received (socket fd 5): ping 1234
+Response sent!
+
+Received (socket fd 5): ping 1234
+Response sent!
+
+Non-client socket fd 6 disconnected
+Received (socket fd 5): ping 1234
+Response sent!
+
+Received (socket fd 5): ping 1234
+Response sent!
+
+received from prompt : exit
+	-> bye
+Exit the program
