@@ -3,12 +3,6 @@ pipeline {
 
     stages {
 
-        stage('Checkout') {
-            steps {
-                git branch: 'main', url: 'https://ton-repo.git'
-            }
-        }
-
         stage('Clean') {
             steps {
                 sh 'make clean'
