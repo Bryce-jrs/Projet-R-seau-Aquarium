@@ -2,9 +2,11 @@ pipeline {
     agent any
 
     stages {
-        stage('Test echo') {
+        stage('Build server') {
             steps {
-                echo 'test micro 1 2 3'
+                sh '''
+                    make clean && make all  
+                '''
             }
         }
     }
