@@ -5,8 +5,11 @@ pipeline {
         stage('Build server') {
             steps {
                 sh '''
-                    make clean && make all  
-                '''
+                        sudo apt update
+                        sudo apt install -y make
+                        make clean
+                        make all
+                    '''
             }
         }
     }
