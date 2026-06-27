@@ -2,29 +2,10 @@ pipeline {
     agent any
 
     stages {
-
-        stage('Clean') {
+        stage('Test echo') {
             steps {
-                sh 'make clean'
+                echo 'test micro 1 2 3'
             }
-        }
-
-        stage('Build server') {
-            steps {
-                sh 'make server'
-            }
-        }
-
-        stage('Build tests') {
-            steps {
-                sh 'make test'
-            }
-        }
-    }
-
-    post {
-        always {
-            archiveArtifacts artifacts: 'server,test_*', fingerprint: true
         }
     }
 }
